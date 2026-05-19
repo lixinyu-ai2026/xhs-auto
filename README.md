@@ -21,7 +21,8 @@
 
 ## 项目截图
 
-（放截图）
+<img width="1688" height="920" alt="image" src="https://github.com/user-attachments/assets/6b23f2ce-c82a-402b-9350-c709b9472e55" />
+
 
 ## 启动方式
 
